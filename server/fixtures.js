@@ -12,7 +12,7 @@ if ( Posts.find().count() === 0 ) {
 
     Posts.insert({
         title: 'The Meteor book',
-        url: "http:// themeteorbook.com"
+        url: "http://themeteorbook.com"
     });
 
 }
